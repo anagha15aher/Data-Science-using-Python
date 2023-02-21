@@ -1,0 +1,112 @@
+1. What is the main difference between Numpy and Pandas?
+A. Numpy is a library for numerical computing
+B. Pandas is a library for numerical computing.
+C. Numpy is a library for data manipulation and analysis.
+D. Pandas is a library for numerical computing
+ANSWER: A
+
+2. What is the function used to load a CSV file into a Pandas DataFrame?
+A. pd.csv_read()
+B. pd.read_file()
+C. pd.read_csv()
+D. pd.load_csv()
+ANSWER: C
+
+3. How can you select a specific column from a Pandas DataFrame?
+A. df.get_column("column_name")
+B. df["column_name"]
+C. df.select_column("column_name")
+D. df.find_column("column_name")
+ANSWER: B
+
+4. What is the function used to drop a column from a Pandas DataFrame?
+A. df.remove_column("column_name")
+B. df.drop("column_name")
+C. df.delete_column("column_name")
+D. df.drop_column("column_name")
+ANSWER: B
+
+5. What is the difference between df.dropna() and df.fillna() in Pandas?
+A. df.dropna() removes missing values while df.fillna() adds missing values.
+B. df.dropna() adds missing values while df.fillna() removes missing values.
+C. df.dropna() removes all rows with missing values while df.fillna() fills missing values with a specified value or method.
+D. df.dropna() fills missing values with a specified value or method while df.fillna() removes all rows with missing values.
+ANSWER: C
+
+6. How can you calculate the mean of a column in a Pandas DataFrame?
+A. df.mean_of("column_name")
+B. df["column_name"].mean()
+C. df.calculate_mean("column_name")
+D. df.get_mean("column_name")
+ANSWER: B
+
+7. What is the function used to concatenate two or more Pandas DataFrames?
+A. pd.merge_dfs()
+B. pd.concatenate()
+C. pd.concat()
+D. pd.join_dfs()
+ANSWER: C
+
+8. What is Numpy used for in data preparation?
+A. Data storage
+B. Data manipulation and analysis
+C. Data visualization
+D. Data retrieval
+ANSWER: B
+
+9. What is Pandas used for in data preparation?
+A. Data storage
+B. Data manipulation and analysis
+C. Data visualization
+D. Data retrieval
+ANSWER: B
+
+10. Which library is better suited for complex mathematical operations on arrays?
+A. Numpy
+B. Pandas
+C. Both
+D. None
+ANSWER: A
+
+11. Which library provides data structures such as DataFrame and Series?
+A. Numpy
+B. Pandas
+C. Both
+D. None
+ANSWER: B
+
+12. What is the syntax to load a csv file into a Pandas DataFrame?
+A. pandas.read_csv(file_name)
+B. pandas.load_csv(file_name)
+C. pandas.csv_read(file_name)
+D. pandas.file_load(file_name)
+ANSWER: A
+
+13. What is the basic data structure in Numpy?
+A. List
+B. Tuple
+C. Dictionary
+D. Array
+ANSWER: D
+
+14. What is the basic data structure in Pandas?
+A. List
+B. Tuple
+C. Dictionary
+D. DataFrame
+ANSWER: D
+
+15. What is the syntax to select a specific column in a Pandas DataFrame?
+A. data_frame[column_name]
+B. data_frame.column_name
+C. data_frame(column_name)
+D. data_frame{column_name}
+ANSWER: A
+
+16. How do you fill missing values in a Pandas DataFrame?
+A. data_frame.fillna()
+B. data_frame.fill_na()
+C. data_frame.missing_fill()
+D. data_frame.na_fill()
+ANSWER: A
+

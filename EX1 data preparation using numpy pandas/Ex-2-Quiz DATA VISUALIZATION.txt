@@ -1,0 +1,113 @@
+1. What is Matplotlib used for?
+A. Data storage
+B. Data manipulation and analysis
+C. Data visualization
+D. Data retrieval
+ANSWER: C
+
+2. What is Seaborn used for?
+A. Data storage
+B. Data manipulation and analysis
+C. Data visualization
+D. Data retrieval
+ANSWER: C
+
+3. Which library is built on top of Matplotlib and provides a high-level interface for visualization?
+A. Matplotlib
+B. Seaborn
+C. Both
+D. None
+ANSWER: B
+
+4. What is the syntax to create a basic line plot in Matplotlib?
+A. plt.plot(x, y)
+B. plt.line_plot(x, y)
+C. plt.graph(x, y)
+D. plt.lines(x, y)
+ANSWER: A
+
+5. What is the syntax to create a basic histogram in Matplotlib?
+A. plt.hist(data)
+B. plt.histogram(data)
+C. plt.bar_plot(data)
+D. plt.bars(data)
+ANSWER: A
+
+6. What is the syntax to create a scatter plot in Matplotlib?
+A. plt.scatter(x, y)
+B. plt.scatter_plot(x, y)
+C. plt.points(x, y)
+D. plt.scatter_points(x, y)
+ANSWER: A
+
+7. What is the syntax to create a basic bar plot in Seaborn?
+A. sns.barplot(x, y)
+B. sns.bar_plot(x, y)
+C. sns.bars(x, y)
+D. sns.bar_chart(x, y)
+ANSWER: A
+
+8. What is the syntax to create a basic line plot in Matplotlib?
+A. plt.plot(x, y)
+B. plt.line_plot(x, y)
+C. plt.graph(x, y)
+D. plt.lines(x, y)
+ANSWER: A
+
+9. What is the syntax to create a basic histogram in Matplotlib?
+A. plt.hist(data)
+B. plt.histogram(data)
+C. plt.bar_plot(data)
+D. plt.bars(data)
+ANSWER: A
+
+10. What is the syntax to create a scatter plot in Matplotlib?
+A. plt.scatter(x, y)
+B. plt.scatter_plot(x, y)
+C. plt.points(x, y)
+D. plt.scatter_points(x, y)
+ANSWER: A
+
+11. What is the syntax to add markers to a line graph plotted using the plt.plot() function?
+A. plt.plot(x, y, marker='o')
+B. plt.plot(x, y, m='o')
+C. plt.plot(x, y, point='o')
+D. plt.plot(x, y, markers='o')
+ANSWER: A
+
+12. What is the syntax to add a title to a Matplotlib plot?
+A. plt.title(title)
+B. plt.plot_title(title)
+C. plt.set_title(title)
+D. plt.graph_title(title)
+ANSWER: A
+
+13. What is the syntax to plot a line graph in Matplotlib using the plt.plot() function?
+A. plt.plot(x, y)
+B. plt.line_plot(x, y)
+C. plt.lines(x, y)
+D. plt.line(x, y)
+ANSWER: A
+
+14. What is the syntax to change the color of the line in a line graph plotted using the plt.plot() function?
+A. plt.plot(x, y, color='red')
+B. plt.plot(x, y, c='red')
+C. plt.plot(x, y, colour='red')
+D. plt.plot(x, y, line_color='red')
+ANSWER: A
+
+15. What is the syntax to change the line style in a line graph plotted using the plt.plot() function?
+A. plt.plot(x, y, linestyle='--')
+B. plt.plot(x, y, ls='--')
+C. plt.plot(x, y, style='--')
+D. plt.plot(x, y, line_style='--')
+ANSWER: A
+
+
+
+What is the syntax to add a legend to a line graph plotted using the plt.plot() function?
+a. plt.plot(x, y, label='Line 1')
+b. plt.plot(x, y, l='Line 1')
+c. plt.plot(x, y, legend='Line 1')
+d. plt.plot(x, y, name='Line 1')
+Ans: a. plt.plot(x, y, label='Line 1')

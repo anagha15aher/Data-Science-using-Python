@@ -1,0 +1,18 @@
+Aim: To implementation of Statistical Hypothesis Test using Scipy
+
+CO Mapped:
+
+  CO3: Apply the supervised machine learning techniques Classification, and Regression on given data.
+
+Prerequisites: Python3, numpy, pandas,seaborn.
+
+Problem Statement:
+
+At the end of this experiment, students will be able to:
+
+
+
+
+Milestones:
+
+
